@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8MupZHY.png" width="100%" alt="banner"/>
+  <img src="https://i.imgur.com/8MupZHY.png" width="88%" alt="banner"/>
 </p>
 
 <h1 align="center">Hi, I'm <strong>Johan Manco</strong></h1>
