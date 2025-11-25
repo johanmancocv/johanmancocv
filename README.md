@@ -163,7 +163,7 @@ https://github.com/johanmancocv/api-auth-lab
 
 📍 Colombia  
 📧 **johanmancocv@gmail.com**  
-🔗 **LinkedIn:** www.linkedin.com/in/johan-manco  
+🔗 **www.linkedin.com/in/johan-manco**   
 
 ---
 
