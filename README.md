@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <strong>Johan Manco</strong></h1>
 
 <p align="center">
-  IT Project Manager transitioning into Full-Stack Development | Node.js • JavaScript • SQL • APIs  
+  IT Project Manager & Full-Stack Developer | Node.js • JavaScript • SQL • APIs  
 </p>
 
 <p align="center">
