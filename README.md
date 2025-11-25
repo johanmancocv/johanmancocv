@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm an IT Project Manager from Colombia transitioning into **full-stack development**, currently completing the **IBM Full Stack Software Developer Professional Certificate** and building projects with **Node.js, JavaScript, SQL, and React**.
 
@@ -27,7 +27,7 @@ I’m now consolidating that experience into a technical direction — **backend
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### **Languages**
 <p>
