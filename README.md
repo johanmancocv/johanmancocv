@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <strong>Johan Manco</strong></h1>
+<h1 align="center">Hi, I'm <strong>Johan Manco</strong></h1>
 
 <p align="center">
   IT Project Manager & Full-Stack Developer | Node.js • JavaScript • SQL • APIs  
