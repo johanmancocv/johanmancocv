@@ -122,12 +122,12 @@ The IBM program is giving me hands-on experience in:
 
 I’m currently building projects demonstrating:
 
--✔ Full-stack fundamentals (React + Node.js)  
--✔ REST APIs & auth  
--✔ SQL & backend data modeling  
--✔ Dockerized apps & Kubernetes concepts  
--✔ Cloud-native deployment patterns  
--✔ A capstone project from IBM (coming soon)  
+-Full-stack fundamentals (React + Node.js)  
+-REST APIs & auth  
+-SQL & backend data modeling  
+-Dockerized apps & Kubernetes concepts  
+-Cloud-native deployment patterns  
+-A capstone project from IBM (coming soon)  
 
 ### Existing Project
 
