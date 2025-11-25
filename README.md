@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm <strong>Johan Manco</strong></h1>
 
 <p align="center">
-  IT Project Manager transitioning into Full-Stack Development | Node.js • JavaScript • SQL • Cloud-Native Engineering
+  IT Project Manager & Full-Stack Developer | Node.js • JavaScript • SQL • Cloud-Native Engineering
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm an IT Project Manager transitioning into **full-stack development**, currently completing the **IBM Full Stack Software Developer Certificate**.  
+I work across **IT project management and full-stack development**, building applications with Node.js, React, SQL, Docker, and cloud-native tools, currently completing the **IBM Full Stack Software Developer Certificate**.  
 
 I’m building modern applications with **Node.js, Express, React, Docker, Kubernetes, SQL, and cloud-native tools** while leveraging 3+ years of experience delivering API-driven projects and technical operations in real-world environments.
 
